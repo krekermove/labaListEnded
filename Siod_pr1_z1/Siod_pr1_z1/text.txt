@@ -1,0 +1,2 @@
+Aurum Au 32 23
+Cuprum Cu 23 345
